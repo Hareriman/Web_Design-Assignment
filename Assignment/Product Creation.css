@@ -1,0 +1,58 @@
+h1{
+    font-size: 30px;
+    text-align: center; 
+    color:blue;"
+}
+.product{
+    width: 80%;
+    height: 40px;
+    margin-left: 0px;
+    margin-top: 0px;
+    
+
+}
+.name1{
+    margin-right: 0px;
+    margin-left: 20px;
+    margin-top: 0px;
+}
+
+.creation-box{ width: 30%;
+    height: 400px;
+    background-color: white;
+    border: 2px solid blue;
+    margin: auto;
+    padding: 50px;
+}
+.creation-box input{
+width: 80%;
+height: 20px;
+margin-left: 30px;
+margin-top: 5px;
+}
+.creation-box button{
+width: 80%;
+height: 300px;
+border-radius: 50px
+
+}
+.creation-box input button{
+width: 20%;
+height: 20px;
+margin-top: 10px;
+}
+.btn:hover{
+    background-color: blue;
+    color: white;
+    border: 3px dashed blue;
+    width: 50px;
+    transition: 1s;
+}
+.creation-box label{
+font-size: 16px;
+margin-left: 40px;
+margin-top: 10px
+padding: 5px;
+
+
+}
